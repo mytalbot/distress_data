@@ -2,7 +2,7 @@
 This repository contains the raw data that were used in preparing the manuscript:  
 **"Comparison of distress during cholestasis, chronic liver injury by CCl4, pancreatic cancer and chronic pancreatitis using the RELSA score"**
 
-The data containd six different experimental treatments:
+The data contain six different experimental treatments:
  1. Pancreatitis
  2. Bile duct ligation
  3. CCl4
