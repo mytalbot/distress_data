@@ -10,8 +10,9 @@ The data contain six different experimental treatments:
  5. Pancreatic cancer (+t)
  6. Pancreatic cancer     
 
-Each treatment hast different subgroups, called conditions (total = 12). 
-The experimental lengths were different and a total of n=120 animals are reported in these data.
+Each treatment has different subgroups, called "conditions" in the table (total = 12). 
+The experimental lengths ("day") were different and a total of n=120 animals are reported in these data.
+Baseline data are labelled as day=-1 in analogy to the RELSA standard.
 
 The data can be observed directly in GitHub, downloaded or, i.e., imported into R.
 
