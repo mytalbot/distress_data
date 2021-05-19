@@ -1,5 +1,5 @@
 # Distress data
-This repository contains the raw data that were used in preparing the manuscript:  
+This repository contains the raw data that were used in the preparation of the manuscript:
 **"Comparison of distress during cholestasis, chronic liver injury by CCl4, pancreatic cancer and chronic pancreatitis using the RELSA score"**
 
 The data contain six different experimental treatments:
